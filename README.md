@@ -1,2 +1,2 @@
-# oz-jekyll-demo
-[https://blog.oguzbabaoglu.com/oz-jekyll-demo/](https://blog.oguzbabaoglu.com/oz-jekyll-demo/)
+# https://www.omorozova.com
+[https://www.omorozova.com](https://www.omorozova.com)
