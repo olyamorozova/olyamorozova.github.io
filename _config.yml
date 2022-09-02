@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Olga Morozova"
+title                    : "Olga Morozova | University of Chicago"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Olga Morozova"
-description              : "Personal website."
+description              : "Personal website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,19 +105,21 @@ analytics:
 # Site Author
 author:
   name             : "Olga (Olya) Morozova"
-  avatar           : "/Olga Morozova _ YSPH_files/OM-v6pgjn-200x200.jpg"
+  avatar           : "/images/om.jpg"
   bio              : |-
-    Postdoctoral Associate
+    Assistant Professor
 
-    Public Health Modeling Unit
-    
-    Yale School of Public Health
+    Department of Public Health Sciences
+
+    Biological Sciences Division
+
+    University of Chicago
   location         : 
   email            :
   links:
     - label: "Curriculum Vitae"
       icon: "fas fa-fw fa-envelope-square"
-      url: "https://campuspress.yale.edu/omorozova/files/2020/03/cv_om_031320.pdf"
+      url: "https://www.omorozova.com/files/cv_om.pdf"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?hl=en&user=pRNjF4cAAAAJ&view_op=list_works&sortby=pubdate"
