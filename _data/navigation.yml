@@ -1,9 +1,7 @@
 main:
   - title: "About"
-    url: /
+    url: /about/
   - title: "Submitted and Working Papers"
     url: /papers/
   - title: "Peer-reviewed Publications"
     url: /publications/
-  - title: "Wordpress Clone"
-    url: /wordpress_clone.html
