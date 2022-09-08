@@ -1,7 +1,7 @@
 main:
   - title: "About"
-    url: /about/
-  - title: "Submitted and Working Papers"
-    url: /papers/
-  - title: "Peer-reviewed Publications"
+    url: /
+  - title: "Publications"
     url: /publications/
+  - title: "CV"
+    url: https://www.omorozova.com/files/cv_om.pdf
