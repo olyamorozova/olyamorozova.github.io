@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Olga Morozova | University of Chicago"
-title_separator          : "-"
+title                    : "Olga (Olya) Morozova"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Olga Morozova"
 description              : "Personal website"
@@ -226,6 +226,7 @@ plugins:
   - jekyll-gist
   #- jekyll-feed
   - jekyll-include-cache
+  - jekyll-target-blank
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -234,6 +235,7 @@ whitelist:
   - jekyll-gist
   #- jekyll-feed
   - jekyll-include-cache
+  - jekyll-target-blank
 
 
 # Archives
