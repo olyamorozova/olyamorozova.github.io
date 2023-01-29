@@ -6,17 +6,24 @@ title: "Publications"
 <ol>
 
 <li>
-  Eck, D.J., <b>Olga Morozova</b>, and Crawford, F.W. (2022). Randomization for the susceptibility effect of an infectious disease intervention. <em>Journal of Mathematical Biology</em>, In Press. (Preprint: arXiv:1808.05593, 2018) <a href="https://arxiv.org/abs/1808.05593" target="_blank" rel="noopener noreferrer"><img src="/assets/images/document_link.png" style="width:1em;margin-right:0em;"></a>
+	Kushakov, V., Dvoriak, V., <b>Olga Morozova</b>, Azbel, L., and Sergienko, G. (2022). Psychoactive substance use and drug checking practices among participants at electronic dance music events in Ukraine. <em>Drugs, Habits and Social Policy</em>, 23(3), 244-257. <a href="https://doi.org/10.1108/DHS-10-2022-0035" target="_blank" rel="noopener noreferrer"><img src="/assets/images/document_link.png" style="width:1em;margin-right:0em;"></a>
 </li>
 
+<li>
+	Pashchenko, O., Bromberg, D. J., Dumchev, K., LaMonaca, K., Pykalo, I., Filippovych, M., Esserman, D., Polonsky, M., Galvez de Leon, S.J., <b>Olga Morozova</b>, Dvoriak, S., and Altice, F. L. (2022). Preliminary analysis of self-reported quality health indicators of patients on opioid agonist therapy at specialty and primary care clinics in Ukraine: A randomized control trial. <em>PLOS Global Public Health</em>, 2(11), e0000344. <a href="https://doi.org/10.1371/journal.pgph.0000344" target="_blank" rel="noopener noreferrer"><img src="/assets/images/document_link.png" style="width:1em;margin-right:0em;"></a>
+</li>
 
 <li>
-  Lhuillier, E., Yang, Y., <b>Olga Morozova</b>, Clouston, S.A., Yang, X., Waszczuk, M.A., Carr, M.A. and Luft, B.J. (2022). The Impact of World Trade Center Related Medical Conditions on the Severity of COVID-19 Disease and Its Long-Term Sequelae. <em>International Journal of Environmental Research and Public Health</em>, 19(12), p.6963. <a href="https://www.mdpi.com/1660-4601/19/12/6963" target="_blank" rel="noopener noreferrer"><img src="/assets/images/document_link.png" style="width:1em;margin-right:0em;"></a>
+  Eck, D.J., <b>Olga Morozova</b>, and Crawford, F.W. (2022). Randomization for the susceptibility effect of an infectious disease intervention. <em>Journal of Mathematical Biology</em>, 85, 37. <a href="https://doi.org/10.1007/s00285-022-01801-8" target="_blank" rel="noopener noreferrer"><img src="/assets/images/document_link.png" style="width:1em;margin-right:0em;"></a>
+</li>
+
+<li>
+  Lhuillier, E., Yang, Y., <b>Olga Morozova</b>, Clouston, S.A., Yang, X., Waszczuk, M.A., Carr, M.A. and Luft, B.J. (2022). The Impact of World Trade Center Related Medical Conditions on the Severity of COVID-19 Disease and Its Long-Term Sequelae. <em>International Journal of Environmental Research and Public Health</em>, 19(12), 6963. <a href="https://www.mdpi.com/1660-4601/19/12/6963" target="_blank" rel="noopener noreferrer"><img src="/assets/images/document_link.png" style="width:1em;margin-right:0em;"></a>
 </li>
 
 
  <li>
-  Crawford, F.W., Jones, S.A., Cartter, M., Dean, S.G., Warren, J.L., Li, Z.R., Barbieri, J., Campbell, J., Kenney, P., Valleau, T. and <b>Olga Morozova</b>. (2022). Impact of close interpersonal contact on COVID-19 incidence: Evidence from 1 year of mobile device data. <em>Science Advances</em>, 8(1), p.eabi5499. <a href="https://www.science.org/doi/full/10.1126/sciadv.abi5499" target="_blank" rel="noopener noreferrer"><img src="/assets/images/document_link.png" style="width:1em;margin-right:0em;"></a>
+  Crawford, F.W., Jones, S.A., Cartter, M., Dean, S.G., Warren, J.L., Li, Z.R., Barbieri, J., Campbell, J., Kenney, P., Valleau, T. and <b>Olga Morozova</b>. (2022). Impact of close interpersonal contact on COVID-19 incidence: Evidence from 1 year of mobile device data. <em>Science Advances</em>, 8(1), eabi5499. <a href="https://www.science.org/doi/full/10.1126/sciadv.abi5499" target="_blank" rel="noopener noreferrer"><img src="/assets/images/document_link.png" style="width:1em;margin-right:0em;"></a>
 </li>
 
 
