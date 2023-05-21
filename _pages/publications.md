@@ -6,6 +6,14 @@ title: "Publications"
 <ol>
 
 <li>
+	<b>Olga Morozova</b>, Ivanchuk, I., Gvozdetska, O., Nesterova, O., Skala, P., Kuzin, I., and Dumchev, K. (2023). Treatment of opioid use disorder in Ukraine during the first year of the Russia–Ukraine war: Lessons learned from the crisis. <em>International Journal of Drug Policy</em>>, 117 (104062). <a href="https://authors.elsevier.com/a/1h6Zp_LkIBTWPE" target="_blank" rel="noopener noreferrer"><img src="/assets/images/document_link.png" style="width:1em;margin-right:0em;"></a>
+</li>
+
+<li>
+	Waszczuk, M. A., <b>Olga Morozova</b>>, Lhuillier, E., Docherty, A. R., Shabalin, A. A., Yang, X., Carr, M.A., Clouston, S.A., Kotov, R., and Luft, B. J. (2023). Polygenic risk scores for asthma and allergic disease associate with COVID-19 severity in 9/11 responders. <em>PLOS One</em>>, 18(3), e0282271.<a href="https://doi.org/10.1371/journal.pone.0282271" target="_blank" rel="noopener noreferrer"><img src="/assets/images/document_link.png" style="width:1em;margin-right:0em;"></a>
+</li>
+
+<li>
 	Kushakov, V., Dvoriak, V., <b>Olga Morozova</b>, Azbel, L., and Sergienko, G. (2022). Psychoactive substance use and drug checking practices among participants at electronic dance music events in Ukraine. <em>Drugs, Habits and Social Policy</em>, 23(3), 244-257. <a href="https://doi.org/10.1108/DHS-10-2022-0035" target="_blank" rel="noopener noreferrer"><img src="/assets/images/document_link.png" style="width:1em;margin-right:0em;"></a>
 </li>
 
@@ -20,7 +28,6 @@ title: "Publications"
 <li>
   Lhuillier, E., Yang, Y., <b>Olga Morozova</b>, Clouston, S.A., Yang, X., Waszczuk, M.A., Carr, M.A. and Luft, B.J. (2022). The Impact of World Trade Center Related Medical Conditions on the Severity of COVID-19 Disease and Its Long-Term Sequelae. <em>International Journal of Environmental Research and Public Health</em>, 19(12), 6963. <a href="https://www.mdpi.com/1660-4601/19/12/6963" target="_blank" rel="noopener noreferrer"><img src="/assets/images/document_link.png" style="width:1em;margin-right:0em;"></a>
 </li>
-
 
  <li>
   Crawford, F.W., Jones, S.A., Cartter, M., Dean, S.G., Warren, J.L., Li, Z.R., Barbieri, J., Campbell, J., Kenney, P., Valleau, T. and <b>Olga Morozova</b>. (2022). Impact of close interpersonal contact on COVID-19 incidence: Evidence from 1 year of mobile device data. <em>Science Advances</em>, 8(1), eabi5499. <a href="https://www.science.org/doi/full/10.1126/sciadv.abi5499" target="_blank" rel="noopener noreferrer"><img src="/assets/images/document_link.png" style="width:1em;margin-right:0em;"></a>
