@@ -6,6 +6,10 @@ title: "Publications"
 <ol>
 
 <li>
+Machavariani, E., Bromberg, D. J., Dumchev, K., Dvoriak, S., Zeziulin, O., <b>Olga Morozova</b>, Esserman, D., Pykalo, I., Saichuk, N., Ivasiy, R., Haddad, M.S., and Altice, F. L. (2023). Design, implementation and preliminary results of a type-2 hybrid cluster-randomized trial of integrating screening and treatment for major depressive disorder into specialty clinics providing opioid agonist therapies in Ukraine. <em>Contemporary Clinical Trials</em>, 131 (107248). <a href="https://doi.org/10.1016/j.cct.2023.107248" target="_blank" rel="noopener noreferrer"><img src="/assets/images/document_link.png" style="width:1em;margin-right:0em;"></a>
+</li>
+
+<li>
 	<b>Olga Morozova</b>, Ivanchuk, I., Gvozdetska, O., Nesterova, O., Skala, P., Kuzin, I., and Dumchev, K. (2023). Treatment of opioid use disorder in Ukraine during the first year of the Russia–Ukraine war: Lessons learned from the crisis. <em>International Journal of Drug Policy</em>, 117 (104062). <a href="https://authors.elsevier.com/a/1h6Zp_LkIBTWPE" target="_blank" rel="noopener noreferrer"><img src="/assets/images/document_link.png" style="width:1em;margin-right:0em;"></a>
 </li>
 
