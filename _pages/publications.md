@@ -10,11 +10,11 @@ Machavariani, E., Bromberg, D. J., Dumchev, K., Dvoriak, S., Zeziulin, O., <b>Ol
 </li>
 
 <li>
-	<b>Olga Morozova</b>, Ivanchuk, I., Gvozdetska, O., Nesterova, O., Skala, P., Kuzin, I., and Dumchev, K. (2023). Treatment of opioid use disorder in Ukraine during the first year of the Russia–Ukraine war: Lessons learned from the crisis. <em>International Journal of Drug Policy</em>, 117 (104062). <a href="https://authors.elsevier.com/a/1h6Zp_LkIBTWPE" target="_blank" rel="noopener noreferrer"><img src="/assets/images/document_link.png" style="width:1em;margin-right:0em;"></a>
+	<b>Olga Morozova</b>, Ivanchuk, I., Gvozdetska, O., Nesterova, O., Skala, P., Kuzin, I., and Dumchev, K. (2023). Treatment of opioid use disorder in Ukraine during the first year of the Russia–Ukraine war: Lessons learned from the crisis. <em>International Journal of Drug Policy</em>, 117 (104062). <a href="https://doi.org/10.1016/j.drugpo.2023.104062" target="_blank" rel="noopener noreferrer"><img src="/assets/images/document_link.png" style="width:1em;margin-right:0em;"></a>
 </li>
 
 <li>
-	Waszczuk, M. A., <b>Olga Morozova</b>>, Lhuillier, E., Docherty, A. R., Shabalin, A. A., Yang, X., Carr, M.A., Clouston, S.A., Kotov, R., and Luft, B. J. (2023). Polygenic risk scores for asthma and allergic disease associate with COVID-19 severity in 9/11 responders. <em>PLOS One</em>, 18(3), e0282271.<a href="https://doi.org/10.1371/journal.pone.0282271" target="_blank" rel="noopener noreferrer"><img src="/assets/images/document_link.png" style="width:1em;margin-right:0em;"></a>
+	Waszczuk, M. A., <b>Olga Morozova</b>, Lhuillier, E., Docherty, A. R., Shabalin, A. A., Yang, X., Carr, M.A., Clouston, S.A., Kotov, R., and Luft, B. J. (2023). Polygenic risk scores for asthma and allergic disease associate with COVID-19 severity in 9/11 responders. <em>PLOS One</em>, 18(3), e0282271.<a href="https://doi.org/10.1371/journal.pone.0282271" target="_blank" rel="noopener noreferrer"><img src="/assets/images/document_link.png" style="width:1em;margin-right:0em;"></a>
 </li>
 
 <li>
