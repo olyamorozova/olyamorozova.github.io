@@ -15,7 +15,7 @@ title: "Publications"
 </li>
 
 <li>
-	<b>Olga Morozova</b>, Ivanchuk, I., Gvozdetska, O., Nesterova, O., Skala, P., Kuzin, I., and Dumchev, K. (2023). Treatment of opioid use disorder in Ukraine during the first year of the Russia–Ukraine war: Lessons learned from the crisis. <em>International Journal of Drug Policy</em>, 117 (104062). <a href="https://doi.org/10.1016/j.drugpo.2023.104062" target="_blank" rel="noopener noreferrer">[journal]</a>  <a href="https://www.omorozova.com/papers/2023_Morozova_MOUD_Ukraine_during_war_AM.pdf">[open access accepted manuscript]</a>
+	<b>Olga Morozova</b>, Ivanchuk, I., Gvozdetska, O., Nesterova, O., Skala, P., Kuzin, I., and Dumchev, K. (2023). Treatment of opioid use disorder in Ukraine during the first year of the Russia–Ukraine war: Lessons learned from the crisis. <em>International Journal of Drug Policy</em>, 117 (104062). <a href="https://doi.org/10.1016/j.drugpo.2023.104062" target="_blank" rel="noopener noreferrer">[journal]</a>  <a href="https://www.omorozova.com/papers/2023_Morozova_MOUD_Ukraine_during_war_AM.pdf" target="_blank" rel="noopener noreferrer">[open access]</a>
 </li>
 
 <li>
