@@ -9,6 +9,10 @@ title: "Publications"
   <title>Publications</title>
   <style>
 
+    body {
+    font-size: 14px; /* smaller than default (usually 16px) */
+    }
+
     h1 {
       font-size: 2rem;
       margin-bottom: 1.5rem;
@@ -49,7 +53,6 @@ title: "Publications"
 </head>
 <body>
   <section class="publications">
-    <h1>Publications</h1>
 
   <ol class="publication-list">
 
