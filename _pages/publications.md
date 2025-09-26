@@ -9,10 +9,6 @@ title: "Publications"
   <title>Publications</title>
   <style>
 
-    body {
-    font-size: 14px; /* smaller than default (usually 16px) */
-    }
-
     h1 {
       font-size: 2rem;
       margin-bottom: 1.5rem;
@@ -20,6 +16,7 @@ title: "Publications"
     }
 
     .publication-list {
+      font-size: 15px;
       list-style-type: decimal;
       padding-left: 2rem;
     }
