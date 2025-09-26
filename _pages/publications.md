@@ -3,21 +3,11 @@ permalink: /publications/
 title: "Publications"
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Publications</title>
   <style>
-    body {
-      font-family: Georgia, serif;
-      line-height: 1.6;
-      color: #333;
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 2rem 1rem;
-      background: #fafafa;
-    }
 
     h1 {
       font-size: 2rem;
