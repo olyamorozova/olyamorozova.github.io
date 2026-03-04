@@ -53,25 +53,54 @@ title: "Publications"
 
   <ol class="publication-list">
 
+
+  <li>
+        León TM, Muehling LM, Baccile R, <strong>Olga Morozova</strong>, on behalf of the National Clinical Cohort Collaborative COVID-19
+        Enclave. (2026). Immune Priming and the Risk of COVID-19, Influenza, and other Acute Respiratory Infections: Insights from
+        an N3C Cohort. <cite>Influenza and Other Respiratory Viruses</cite>, In Press.
+      </li>
+  
+  <li>
+        Ohorodnik S, Conroy K, Dumchev K, Ptashchenko A, Gritsenko V, Ivanchuk I, <strong>Olga Morozova</strong>. (2026). Initiation, retention, and
+        discontinuation of extended-release buprenorphine (BUP-XR) for opioid dependence: A single-arm multi-site trial in
+        Ukraine. <cite>International Journal of Drug Policy</cite>, 148:105107.
+        <a href="https://doi.org/10.1016/j.drugpo.2025.105107" target="_blank" rel="noopener noreferrer">[journal, open access]</a>
+      </li>
+
+  <li>
+        Machavariani E, Esserman D, Dumchev K, Filippovych M, Pykalo I, Ivasiy R, Madden LM, Bromberg DJ, Haddad M,
+        <strong>Olga Morozova</strong>, Oliveros D, Ahmad B, Dvoriak S, Altice FL. (2026). Integrating Methadone Services into Primary Care in Ukraine:
+        Two-Year Outcomes From a Randomized Trial. <cite>Annals of Internal Medicine</cite>, 179(2): 177-186.
+        <a href="https://doi.org/10.7326/ANNALS-25-01764" target="_blank" rel="noopener noreferrer">[journal]</a>
+      </li>
+
   <li>
         <strong>Olga Morozova</strong>, Conroy K, Riabokon S, Germanovich M, Zelinskyi Y, Puttkammer N, Dumchev K. (2025). 
         HIV Viral Rebound on Dolutegravir, Lopinavir, and Efavirenz: National Program Data Analysis From Ukraine. 
         <cite>JAIDS Journal of Acquired Immune Deficiency Syndromes</cite>, 99(4): 395-404. 
-        <a href="https://doi.org/10.1097/QAI.0000000000003676" target="_blank" rel="noopener noreferrer">[journal]</a>
+        <a href="https://doi.org/10.1097/QAI.0000000000003676" target="_blank" rel="noopener noreferrer">[journal, open access]</a>
       </li>
 
   <li>
         Babalola TK, Clouston SAP, Sekendiz Z, Chowdhury D, Soriolo N, Kawuki J, Meliker J, Carr M, Valenti BR, Fontana A, Melendez OA, <strong>Olga Morozova</strong>, Luft BJ. (2025). 
         SARS-CoV-2 re-infection and incidence of post-acute sequelae of COVID-19 (PASC) among essential workers in New York: a retrospective cohort study. 
         <cite>The Lancet Regional Health – Americas</cite>, 42, 100984. 
-        <a href="https://doi.org/10.1016/j.lana.2024.100984" target="_blank" rel="noopener noreferrer">[journal]</a>
+        <a href="https://doi.org/10.1016/j.lana.2024.100984" target="_blank" rel="noopener noreferrer">[journal, open access]</a>
+      </li>
+
+  <li>
+        <strong>Olga Morozova</strong>, Dvoriak V, Dumchev K, Machavariani E, Bromberg D, Dvoriak S, Altice FL. (2025). 
+        Prevalence and Correlates of Depression and Bipolar Disorder Among Patients Maintained on Methadone and Buprenorphine in Ukraine. 
+        <cite>International Journal of Mental Health and Addiction</cite>, 23: 4310-4327. 
+        <a href="https://doi.org/10.1007/s11469-024-01353-6" target="_blank" rel="noopener noreferrer">[journal]</a>
+        <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12356126/" target="_blank" rel="noopener noreferrer">[open access]</a>        
       </li>
 
   <li>
         Sekendiz Z, <strong>Olga Morozova</strong>, Carr MA, Fontana A, Mehta N, Ali A, Jiang E, Babalola T, Clouston SAP, Luft BJ. (2024).
         Characterization of Change in Cognition Before and After COVID-19 Infection in Essential Workers at Midlife. 
         <cite>American Journal of Medicine Open</cite>, 12, 100076. 
-        <a href="https://doi.org/10.1016/j.ajmo.2024.100076" target="_blank" rel="noopener noreferrer">[journal]</a>
+        <a href="https://doi.org/10.1016/j.ajmo.2024.100076" target="_blank" rel="noopener noreferrer">[journal, open access]</a>
       </li>
 
   <li>
@@ -96,13 +125,6 @@ title: "Publications"
       </li>
 
   <li>
-        <strong>Olga Morozova</strong>, Dvoriak V, Dumchev K, Machavariani E, Bromberg D, Dvoriak S, Altice FL. (2024). 
-        Prevalence and Correlates of Depression and Bipolar Disorder Among Patients Maintained on Methadone and Buprenorphine in Ukraine. 
-        <cite>International Journal of Mental Health and Addiction</cite>. 
-        <a href="https://doi.org/10.1007/s11469-024-01353-6" target="_blank" rel="noopener noreferrer">[journal]</a>
-      </li>
-
-  <li>
         Zeziulin O, Kornilova M, Deac A, <strong>Olga Morozova</strong>, Varetska O, Pykalo I, Dumchev K. (2024). 
         Modes of HIV transmission among young women and their sexual partners in Ukraine. 
         <cite>PLOS ONE</cite>, 19(6), e0305072. 
@@ -120,7 +142,7 @@ title: "Publications"
         Dumchev K, Kornilova M, Makarenko O, Antoniak S, Liulchuk M, Cottrell ML, Varetska O, 
         <strong>Olga Morozova</strong>. (2024). 
         Low daily oral PrEP adherence and low validity of self-report in a randomized trial among PWID in Ukraine. 
-        <cite>International Journal of Drug Policy</cite>, 123, 104284. 
+        <cite>International Journal of Drug Policy</cite>, 123: 104284. 
         <a href="https://doi.org/10.1016/j.drugpo.2023.104284" target="_blank" rel="noopener noreferrer">[journal]</a>
       </li>
 
@@ -130,6 +152,7 @@ title: "Publications"
         Design, implementation and preliminary results of a type-2 hybrid cluster-randomized trial of integrating screening and treatment for major depressive disorder into specialty clinics providing opioid agonist therapies in Ukraine. 
         <cite>Contemporary Clinical Trials</cite>, 131, 107248. 
         <a href="https://doi.org/10.1016/j.cct.2023.107248" target="_blank" rel="noopener noreferrer">[journal]</a>
+        <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10527419/" target="_blank" rel="noopener noreferrer">[open access]</a>
       </li>
 
   <li>
@@ -144,7 +167,7 @@ title: "Publications"
         Waszczuk MA, <strong>Olga Morozova</strong>, Lhuillier E, Docherty AR, Shabalin AA, Yang X, Carr MA, Clouston SA, Kotov R, Luft BJ. (2023). 
         Polygenic risk scores for asthma and allergic disease associate with COVID-19 severity in 9/11 responders. 
         <cite>PLOS One</cite>, 18(3), e0282271. 
-        <a href="https://doi.org/10.1371/journal.pone.0282271" target="_blank" rel="noopener noreferrer">[journal]</a>
+        <a href="https://doi.org/10.1371/journal.pone.0282271" target="_blank" rel="noopener noreferrer">[journal, open access]</a>
       </li>
 
   <li>
@@ -158,7 +181,7 @@ title: "Publications"
         Pashchenko O, Bromberg DJ, Dumchev K, LaMonaca K, Pykalo I, Filippovych M, Esserman D, Polonsky M, Galvez de Leon SJ, <strong>Olga Morozova</strong>, Dvoriak S, Altice FL. (2022). 
         Preliminary analysis of self-reported quality health indicators of patients on opioid agonist therapy at specialty and primary care clinics in Ukraine: A randomized control trial. 
         <cite>PLOS Global Public Health</cite>, 2(11), e0000344. 
-        <a href="https://doi.org/10.1371/journal.pgph.0000344" target="_blank" rel="noopener noreferrer">[journal]</a>
+        <a href="https://doi.org/10.1371/journal.pgph.0000344" target="_blank" rel="noopener noreferrer">[journal, open access]</a>
       </li>
 
   <li>
@@ -166,27 +189,28 @@ title: "Publications"
         Randomization for the susceptibility effect of an infectious disease intervention. 
         <cite>Journal of Mathematical Biology</cite>, 85, 37. 
         <a href="https://doi.org/10.1007/s00285-022-01801-8" target="_blank" rel="noopener noreferrer">[journal]</a>
+        <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9809173/" target="_blank" rel="noopener noreferrer">[open access]</a>
       </li>
 
   <li>
         Lhuillier E, Yang Y, <strong>Olga Morozova</strong>, Clouston SA, Yang X, Waszczuk MA, Carr MA, Luft BJ. (2022). 
         The Impact of World Trade Center Related Medical Conditions on the Severity of COVID-19 Disease and Its Long-Term Sequelae. 
         <cite>International Journal of Environmental Research and Public Health</cite>, 19(12), 6963. 
-        <a href="https://www.mdpi.com/1660-4601/19/12/6963" target="_blank" rel="noopener noreferrer">[journal]</a>
+        <a href="https://www.mdpi.com/1660-4601/19/12/6963" target="_blank" rel="noopener noreferrer">[journal, open access]</a>
       </li>
 
   <li>
         Crawford FW, Jones SA, Cartter M, Dean SG, Warren JL, Li ZR, Barbieri J, Campbell J, Kenney P, Valleau T, <strong>Olga Morozova</strong>. (2022). 
         Impact of close interpersonal contact on COVID-19 incidence: Evidence from 1 year of mobile device data. 
         <cite>Science Advances</cite>, 8(1), eabi5499. 
-        <a href="https://www.science.org/doi/full/10.1126/sciadv.abi5499" target="_blank" rel="noopener noreferrer">[journal]</a>
+        <a href="https://www.science.org/doi/full/10.1126/sciadv.abi5499" target="_blank" rel="noopener noreferrer">[journal, open access]</a>
       </li>
 
   <li>
         <strong>Olga Morozova</strong>, Li ZR, Crawford FW. (2021). 
         One year of modeling and forecasting COVID-19 transmission to support policymakers in Connecticut. 
         <cite>Scientific Reports</cite>, 11(1), 1-14. 
-        <a href="https://www.nature.com/articles/s41598-021-99590-5" target="_blank" rel="noopener noreferrer">[journal]</a>
+        <a href="https://www.nature.com/articles/s41598-021-99590-5" target="_blank" rel="noopener noreferrer">[journal, open access]</a>
       </li>
 
   <li>
@@ -200,7 +224,7 @@ title: "Publications"
         <strong>Olga Morozova</strong>, Clouston SA, Valentine J, Newman A, Carr M, Luft BJ. (2021). 
         COVID-19 cumulative incidence, asymptomatic infections, and fatality in Long Island, NY, January–August 2020: A cohort of World Trade Center responders. 
         <cite>PLOS One</cite>, 16(7), e0254713. 
-        <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254713" target="_blank" rel="noopener noreferrer">[journal]</a>  
+        <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254713" target="_blank" rel="noopener noreferrer">[journal, open access]</a>  
       </li>
 
   <li>
@@ -208,6 +232,7 @@ title: "Publications"
         Cost‐effectiveness of expanding the capacity of opioid agonist treatment in Ukraine: Dynamic modeling analysis. 
         <cite>Addiction</cite>, 115(3), 437-450. 
         <a href="https://onlinelibrary.wiley.com/doi/10.1111/add.14797" target="_blank" rel="noopener noreferrer">[journal]</a> 
+        <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7015766/" target="_blank" rel="noopener noreferrer">[open access]</a>
         <a href="https://github.com/olyamorozova/oat-capacity" target="_blank" rel="noopener noreferrer">[repo]</a>
       </li>
 
