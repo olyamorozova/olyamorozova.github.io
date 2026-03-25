@@ -57,7 +57,8 @@ title: "Publications"
   <li>
         León TM, Muehling LM, Baccile R, <strong>Olga Morozova</strong>, on behalf of the National Clinical Cohort Collaborative COVID-19
         Enclave. (2026). Immune Priming and the Risk of COVID-19, Influenza, and other Acute Respiratory Infections: Insights from
-        an N3C Cohort. <cite>Influenza and Other Respiratory Viruses</cite>, In Press.
+        an N3C Cohort. <cite>Influenza and Other Respiratory Viruses</cite>, 20(3): e70253.
+        <a href="https://doi.org/10.1111/irv.70253" target="_blank" rel="noopener noreferrer">[journal, open access]</a>
       </li>
   
   <li>
