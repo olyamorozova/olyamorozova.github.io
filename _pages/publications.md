@@ -73,6 +73,7 @@ title: "Publications"
         <strong>Olga Morozova</strong>, Oliveros D, Ahmad B, Dvoriak S, Altice FL. (2026). Integrating Methadone Services into Primary Care in Ukraine:
         Two-Year Outcomes From a Randomized Trial. <cite>Annals of Internal Medicine</cite>, 179(2): 177-186.
         <a href="https://doi.org/10.7326/ANNALS-25-01764" target="_blank" rel="noopener noreferrer">[journal]</a>
+        <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13048832/" target="_blank" rel="noopener noreferrer">[open access]</a>
       </li>
 
   <li>
@@ -94,7 +95,7 @@ title: "Publications"
         Prevalence and Correlates of Depression and Bipolar Disorder Among Patients Maintained on Methadone and Buprenorphine in Ukraine. 
         <cite>International Journal of Mental Health and Addiction</cite>, 23: 4310-4327. 
         <a href="https://doi.org/10.1007/s11469-024-01353-6" target="_blank" rel="noopener noreferrer">[journal]</a>
-        <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12356126/" target="_blank" rel="noopener noreferrer">[open access]</a>        
+        <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12356126/" target="_blank" rel="noopener noreferrer">[open access]</a>        
       </li>
 
   <li>
@@ -109,6 +110,7 @@ title: "Publications"
         Design and implementation of a Type-2 hybrid, prospective randomized trial of opioid agonist therapies integration into primary care clinics in Ukraine. 
         <cite>Contemporary Clinical Trials</cite>, 146:107690. 
         <a href="https://doi.org/10.1016/j.cct.2024.107690" target="_blank" rel="noopener noreferrer">[journal]</a>
+        <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11531372/" target="_blank" rel="noopener noreferrer">[open access]</a>
       </li>
 
   <li>
@@ -219,6 +221,7 @@ title: "Publications"
         A wind speed threshold for increased outdoor transmission of coronavirus: an ecological study. 
         <cite>BMC Infectious Diseases</cite>, 21(1), 1-9.  
         <a href="https://link.springer.com/article/10.1186/s12879-021-06796-z" target="_blank" rel="noopener noreferrer">[journal]</a>
+        <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8626759/" target="_blank" rel="noopener noreferrer">[open access]</a>
       </li>
 
   <li>
